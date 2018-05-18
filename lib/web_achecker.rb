@@ -1,5 +1,6 @@
 require "web_achecker/version"
+require 'dotenv/load'
 
 module WebAchecker
-  # Your code goes here...
+  # Add logic and calls to API Web Service here.
 end
