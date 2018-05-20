@@ -13,3 +13,6 @@
 # configuration files
 .env
 .env.test
+
+# history files
+.byebug_history
